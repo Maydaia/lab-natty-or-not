@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Avatar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Avatar contando piada
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criar um avatar contando uma piada
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O avatar contou uma piada. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com os aplicativos de IA, é muito fácil criar avatares. É um suporte muito grande e um facilitador no dia-a-dia.
 ```
 
 ### Exemplos e Insigths
